@@ -18,4 +18,4 @@ Created by Natan Giassi
 
 ## 📝 Course Information
 
-Part of the 2025 Programming Lab 2 course exercises at University of Turin.
+Part of the 2025 Programming Lab 2 course exercises at University of Trieste.
