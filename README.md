@@ -1,6 +1,6 @@
 # 🚀 Programming Lab 2
 
-Welcome to my Python programming laboratory workspace! This repository contains exercises and implementations focusing on data science, machine learning, and Python fundamentals.
+Welcome to my Python programming laboratory workspace! This repository contains exercises and implementations focusing on data science, machine learning, and Python fundamentals.(voglio esplodere)
 
 ## 🛠️ Technologies & Libraries
 
